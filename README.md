@@ -39,7 +39,7 @@ Please read the [wiki](https://github.com/jonasoreland/runnerup/wiki).
 
 ## Translations
 <a target="_blank" style="text-decoration:none; color:black; font-size:66%" href="https://www.transifex.com/projects/p/runner-up-android"
-title="See more information on Transifex.com"><img src="https://www.transifex.com/hubfs/Transifex%20Website/Transifex%20by%20XTM%20Logos/transifex_by_xtm_logo_blue_vertical.svg" ></a>
+title="See more information on Transifex.com"><img src="https://www.transifex.com/hubfs/Transifex%20Website/Transifex%20by%20XTM%20Logos/transifex_by_xtm_logo_blue_vertical.svg" height="49" style="height: auto;width:140px;border-width:0px;border:0px;" width="140"></a>
 
 Interested in helping to translate RunnerUp? Contribute [on Transifex](https://www.transifex.com/projects/p/runner-up-android).
 
